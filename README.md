@@ -12,10 +12,15 @@
   <a href="https://github.com/amoh-godwin/amoh-godwin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amoh-godwin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ampofo's GitHub Stats" />
   </a>
+  <br/>
+  <br/>
+  <br/>
+  
   
   <a href="https://github.com/amoh-godwin/amoh-godwin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoh-godwin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<br/>
 <br/>
 <br/>
 <br/>
