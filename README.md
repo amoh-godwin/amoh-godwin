@@ -45,7 +45,7 @@
 
 ## 🤔 Currently?
 - 🔭 I’m currently working on Soloman
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m currently learning FastAPI
 - 👯 I’m looking to collaborate on Open Source on Qml and Python
 - 🤔 I’m looking for help with Python on Android
 - 💬 Ask me about QML
