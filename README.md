@@ -7,7 +7,7 @@
 
 
 ## Summary
-https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=amoh-godwin
+![summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=amoh-godwin)
 
 
 ## &#x1f4c8; GitHub Stats
