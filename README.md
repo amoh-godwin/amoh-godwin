@@ -52,7 +52,7 @@
 - 🔭 I’m currently working on Soloman
 - 🌱 I’m currently learning Qt C++
 - 👯 I’m looking to collaborate on Open Source on Qml and Python
-- 🤔 I’m looking for help with Python on Android
+- 🤔 I’m looking for help with C
 - 💬 Ask me about QML
 - 📫 How to reach me: amohgyebigodwin@gmail.com
 - ⚡ Fun fact: I am married to my computer
